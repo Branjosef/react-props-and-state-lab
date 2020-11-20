@@ -13,7 +13,7 @@ const allPets = [
     type: 'cat',
     gender: 'male',
     age: 3,
-    weight: 1,
+    weight: 3,
     name: 'Teddy',
     isAdopted: false,
   },
